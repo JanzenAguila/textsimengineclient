@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2c6bbe3473ca0c576ce362b063baeba7",
+    "revision": "2698b318415272ed2fe15be1bc476853",
     "url": "/textsimengineclient/index.html"
   },
   {
-    "revision": "25998ec8dd4ed6138cc8",
+    "revision": "2173b558430906de123c",
     "url": "/textsimengineclient/static/css/main.b2b7f88f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/textsimengineclient/static/js/2.131ecc40.chunk.js.LICENSE"
   },
   {
-    "revision": "25998ec8dd4ed6138cc8",
-    "url": "/textsimengineclient/static/js/main.2655fdd9.chunk.js"
+    "revision": "2173b558430906de123c",
+    "url": "/textsimengineclient/static/js/main.21d59cea.chunk.js"
   },
   {
     "revision": "c2b8951ab9bbcc839ada",
