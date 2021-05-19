@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/textsimengineclient/static/css/main.b2b7f88f.chunk.css",
+    "main.js": "/textsimengineclient/static/js/main.17db9926.chunk.js",
+    "main.js.map": "/textsimengineclient/static/js/main.17db9926.chunk.js.map",
+    "runtime-main.js": "/textsimengineclient/static/js/runtime-main.2995a4f8.js",
+    "runtime-main.js.map": "/textsimengineclient/static/js/runtime-main.2995a4f8.js.map",
+    "static/js/2.973e0476.chunk.js": "/textsimengineclient/static/js/2.973e0476.chunk.js",
+    "static/js/2.973e0476.chunk.js.map": "/textsimengineclient/static/js/2.973e0476.chunk.js.map",
+    "index.html": "/textsimengineclient/index.html",
+    "precache-manifest.acad94e3ed4e211bcb99695542421621.js": "/textsimengineclient/precache-manifest.acad94e3ed4e211bcb99695542421621.js",
+    "service-worker.js": "/textsimengineclient/service-worker.js",
+    "static/css/main.b2b7f88f.chunk.css.map": "/textsimengineclient/static/css/main.b2b7f88f.chunk.css.map",
+    "static/js/2.973e0476.chunk.js.LICENSE": "/textsimengineclient/static/js/2.973e0476.chunk.js.LICENSE",
+    "static/media/InitLogo.png": "/textsimengineclient/static/media/InitLogo.343666ef.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2995a4f8.js",
+    "static/js/2.973e0476.chunk.js",
+    "static/css/main.b2b7f88f.chunk.css",
+    "static/js/main.17db9926.chunk.js"
+  ]
+}
