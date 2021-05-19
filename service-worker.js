@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/textsimengineclient/precache-manifest.098dd43b4a96187bb6805e9b5330dc15.js"
+  "/textsimengineclient/precache-manifest.a2df828513250729ab5749b7e058e3e9.js"
 );
 
 self.addEventListener('message', (event) => {
